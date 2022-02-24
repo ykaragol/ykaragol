@@ -25,4 +25,4 @@ I’ve been working primarily on front-end development since 2016. I've experien
 #### Social Profiles
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yusuf-karagol-64980b43)
-
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ykaragol)
