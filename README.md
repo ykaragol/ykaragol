@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### About me
 My name is Yusuf Karagöl.
 
 I’m a software engineer, working in industry since 2006. I was graduated from computer science department at 2006 and holding my master degree since 2010. I worked as software developer, business analyst, development team leader, infrastructure team developer in various projects.
@@ -24,5 +23,7 @@ I’ve been working primarily on front-end development since 2016. I've experien
 
 #### Social Profiles
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yusuf-karagol-64980b43)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yusuf-karagol-64980b43)  \
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ykaragol)
+
+
